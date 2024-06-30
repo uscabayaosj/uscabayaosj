@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @uscabayaosj
-- 👀 I’m interested in educational technnology and computational anthropology.
+- 👀 I’m interested in educational technology and computational anthropology.
 - 🌱 I’m currently learning how to code in Python.
 - 💞️ I’m looking to collaborate on projects that involve the use of AI for education. 
 - 📫 How to reach me: uscabayaosj@addu.edu.ph

@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning how to code in Python.
 - 💞️ I’m looking to collaborate on projects that involve the use of AI for education. 
 - 📫 How to reach me: uscabayaosj@addu.edu.ph
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I have a cat named, Saoirse.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have two cats named, Saoirse and Caoimhe.
 
 <!---
 uscabayaosj/uscabayaosj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

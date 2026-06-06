@@ -2,7 +2,7 @@
 - 👀 I’m interested in educational technology and computational anthropology.
 - 🌱 I’m currently learning how to code in Python.
 - 💞️ I’m looking to collaborate on projects that involve the use of AI for education. 
-- 📫 How to reach me: uscabayaosj@addu.edu.ph
+- 📫 How to reach me: uscabayaosj@addu.edu.ph or ulysses.cabayao.25@ucl.ac.uk
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have two cats named, Saoirse and Caoimhe.
 
